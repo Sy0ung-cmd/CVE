@@ -1,6 +1,6 @@
 # Bookstore Management System v1.0 by 1000Projects has SQL injection
 
-BUG_Author: 孙一航 广州大学，樊琦 广州大学
+BUG_Author: 孙一航 广州大学，樊琦 广州大学，孙彦斌 广州大学
 
 vendors: https://1000projects.org/bookstore-management-system-php-mysql-project.html
 
